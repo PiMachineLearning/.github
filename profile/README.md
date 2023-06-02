@@ -11,4 +11,4 @@ An example pip.conf is shown
 extra-index-url=https://piwheels.org/simple https://pimachinelearning.github.io/simple
 ```
 This will allow you to access our prebuilt wheels
-Raspberry Pi is a trademark of Raspberry Pi Ltd. We are not affiliated in any way
+<br>Raspberry Pi is a trademark of Raspberry Pi Ltd. We are not affiliated in any way
