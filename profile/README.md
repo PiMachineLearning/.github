@@ -8,7 +8,7 @@ Edit your pip.conf to include `https://pimachinelearning.github.io/simple` in th
 An example pip.conf is shown
 ```
 [global]
-extra-index-url=https://piwheels.org/simple https://pimachinelearning.github.io/simple
+extra-index-url=https://piwheels.org/simple https://pimachinelearning.wip.la/simple
 ```
 This will allow you to access our prebuilt wheels
 <br>Raspberry Pi is a trademark of Raspberry Pi Ltd. We are not affiliated in any way
